@@ -1,0 +1,12 @@
+node_modules/
+database-debug.log
+firebase-debug.log
+pubsub-debug.log
+ui-debug.log
+firestore-debug.log
+yarn.lock
+package-lock.json
+.env
+keys/
+keys/realtimechatapp-fd983-ab7a55e5d217.json
+keys/realtimechatapp-fd983-c0d1fba59dc6.json
